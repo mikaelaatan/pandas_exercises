@@ -6,7 +6,7 @@ Don't get me wrong, tutorials are great resources, but to learn is to do. So unl
 There will be three different types of files:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Exercise instructions  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Solutions without code  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Solutions with code and comments
+~~&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Solutions with code and comments~~ *Deleted*
 
 My suggestion is that you learn a topic in a tutorial, video or documentation and then do the first exercises.
 Learn one more topic and do more exercises. If you are stuck, don't go directly to the solution with code files. Check the solutions only and try to get the correct answer.
